@@ -1,7 +1,7 @@
 @font-face{
-	font-family: 'LD Slender';
+	font-family: 'FuturaHandwritten';
 	font-style: normal;
-	src: url('LDSlender.ttf') format('truetype');
+	src: url('FuturaHandwritten.ttf') format('truetype');
 }
 
 html,body{
@@ -16,7 +16,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'LD Slender';
+	font-family: 'FuturaHandwritten';
 	color: #333;
 	font-size: 20px;
 
@@ -200,7 +200,7 @@ s{
 }
 .button #text{
 	
-	font-family: 'LD Slender';
+	font-family: 'FuturaHandwritten';
 	color: #000;
 	font-size: 24px;
 
